@@ -9,7 +9,7 @@ from env import ENDPOINT, ACCESS_ID, ACCESS_KEY, TB_ACCESS_TOKEN  # TB_ACCESS_TO
 
 class TuyaRealtimeMonitor:
     def __init__(self):
-        self.device_id = "eb7019cd9fe381139bryvz"
+        self.device_id = "eb7019cd9fe******bryvz"
         self.openapi = None
         self.access_token = None
         self.token_expire_time = None
@@ -108,18 +108,17 @@ class TuyaRealtimeMonitor:
 
             # Convertir valores según tipo de dato esperado
             if code in ["cur_voltage1", "cur_voltage2"]:  # Voltaje en V
-                tb_json[code] = round(float(value) / 10, 1)  # Ej: 1206 -> 120.6
+                tb_json[code] = round(float(value) / 10, 1)  
             elif code in ["cur_current1", "cur_current2"]:  # Corriente en A
-                tb_json[code] = round(float(value) / 1000, 3)  # Ej: 1365 -> 1.365
+                tb_json[code] = round(float(value) / 1000, 3)  
             elif code in ["cur_power1", "cur_power2"]:  # Potencia en W
-                tb_json[code] = round(float(value) / 10, 1)  # Ej: 857 -> 85.7
+                tb_json[code] = round(float(value) / 10, 1)  
             elif code in ["total_energy1", "total_energy2"]:  # Energía total en Wh
-                tb_json[code] = round(float(value) / 1000, 3)  # Ej: 207354 -> 207.354
+                tb_json[code] = round(float(value) / 1000, 3)  
             elif code in ["today_acc_energy1", "today_acc_energy2"]:  # Energía acumulada hoy
-                tb_json[code] = round(float(value) / 1000, 3)  # Ej: 5607 -> 5.607
+                tb_json[code] = round(float(value) / 1000, 3)  
             else:
-                tb_json[code] = value  # Otros valores se envían tal cual
-
+                tb_json[code] = value  
         return tb_json
 
     # ------------------------ Enviar a ThingsBoard ------------------------
@@ -146,7 +145,7 @@ class TuyaRealtimeMonitor:
 
     def start_monitoring(self):
         if not self.connect():
-            print("❌ No se pudo conectar con Tuya")
+            print(" No se pudo conectar con Tuya")
             return
         self.running = True
         print(f"Iniciando monitoreo cada {self.update_interval}s...")
