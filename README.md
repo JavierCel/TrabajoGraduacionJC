@@ -32,7 +32,7 @@ Implementar un sistema de monitoreo energético que permita optimizar el uso de 
 
 ## 💻 Componentes de Software
 
-### Medidor Bidireccional (Tuya IoT)
+### 🔌Medidor Bidireccional (Tuya IoT)
 
 **Archivo:** [`Prototipo.py`](https://github.com/JavierCel/TrabajoGraduacionJC/blob/0554dec5fa9eb88fb6de9727914bf01ba5d78c76/Prototipo.py)
 
@@ -53,7 +53,7 @@ Sistema de adquisición de datos del medidor de energía bidireccional mediante 
 pip install requests json datetime threading
 ```
 ---
-### Monitor de Baterías (ESP32 - VE.Direct)
+### 🔋Monitor de Baterías (ESP32 - VE.Direct)
 
 **Archivo:** [`Monitor_Bateria.ino`](https://github.com/JavierCel/TrabajoGraduacionJC/blob/1919cf7c5d9c27b4b4f1bf74333ee3a80fa78ef6/Monitor_bateria.ino)
 
@@ -107,13 +107,13 @@ Los datos recopilados por ambos sistemas se envían a **ThingsBoard Cloud IoT** 
 
 ## 📈 Resultados y Métricas del Sistema
 
-### ⚡ Rendimiento Operativo Medido
+### Rendimiento Operativo Medido
 - **Latencia de datos:** < 2.5 segundos promedio (objetivo: < 3s) ✅
 - **Disponibilidad del sistema:** 99.2% uptime en pruebas de 30 días ✅  
 - **Precisión de mediciones:** ±1.2% vs medidores calibrados ✅
 - **Eficiencia de transmisión:** 99.8% de paquetes exitosos ✅
 
-### 🎯 Objetivos de Eficiencia Energética
+### Objetivos de Eficiencia Energética
 | Métrica | Objetivo | Resultado Medido | Estado |
 |---------|----------|------------------|---------|
 | Optimización consumo | 15-25% | **22.3%** | ✅ Logrado |
@@ -121,7 +121,7 @@ Los datos recopilados por ambos sistemas se envían a **ThingsBoard Cloud IoT** 
 | Autonomía baterías | 4 horas | **5.2 horas** | ✅ Superado |
 | Balance carga/descarga | 95% | **97.1%** | ✅ Superado |
 
-### 📊 Análisis de Datos Recopilados
+### Análisis de Datos Recopilados
 **Período de prueba:** 45 días continuos
 - **Total de registros:** 1,944,000 puntos de datos
 - **Frecuencia promedio:** 1.8 segundos por muestra
