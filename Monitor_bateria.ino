@@ -11,12 +11,12 @@
  * VE.Direct Pin 4 (VCC) → NO CONECTAR
  */
 
-// 🔹 Configura tu red WiFi
-const char* ssid     = "KingoTaller";
-const char* password = "kingotaller";
+// Configura tu red WiFi
+const char* ssid     = "K*********r";
+const char* password = "*********";
 
-// 🔹 Configura ThingsBoard Cloud
-String serverName = "http://thingsboard.cloud/api/v1/1h0kfauv3h1wrivxhjc4/telemetry";
+// Configura ThingsBoard Cloud
+String serverName = "http://thingsboard.cloud/api/v1/***********/telemetry";
 
 // Variables para datos del BMV
 float voltage = 0.0;
@@ -64,7 +64,7 @@ void loop() {
     else if (line.startsWith("CE\t")) {
       energy = line.substring(3).toFloat() / 1000.0;
 
-      // ✅ Cuando recibimos CE (último valor de interés), enviamos todo a ThingsBoard Cloud
+      // Cuando recibimos CE (último valor de interés), enviamos todo a ThingsBoard Cloud
       enviarDatos();
     }
   }
