@@ -83,6 +83,8 @@ Los datos recopilados por ambos sistemas se envían a **ThingsBoard Cloud IoT** 
 - Estado de carga y salud de las baterías
 - Balance energético del sistema híbrido
 
+**Dashboard**: [SIstema de monitoreo](https://thingsboard.cloud/dashboard/9f9f7910-885d-11f0-9631-172f0d7c47ff?publicId=523ffb30-8863-11f0-9cc2-6f3b558016bd)
+
 ## 🚀 Instalación y Configuración
 
 ### Requisitos Previos
