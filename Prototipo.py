@@ -9,7 +9,7 @@ from env import ENDPOINT, ACCESS_ID, ACCESS_KEY, TB_ACCESS_TOKEN  # TB_ACCESS_TO
 
 class TuyaRealtimeMonitor:
     def __init__(self):
-        self.device_id = "eb7019cd9fe******bryvz"
+        self.device_id = "eb7019cd9fe******bryv*"
         self.openapi = None
         self.access_token = None
         self.token_expire_time = None
