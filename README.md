@@ -34,7 +34,7 @@ Implementar un sistema de monitoreo energético que permita optimizar el uso de 
 
 ### Medidor Bidireccional (Tuya IoT)
 
-**Archivo:** [`Prototipo.py`](https://github.com/JavierCel/TrabajoGraduacionJC/blob/39c7729973b1af43cc4542db3ce922e11599a598/Prototipo.py)
+**Archivo:** [`Prototipo.py`](https://github.com/JavierCel/TrabajoGraduacionJC/blob/0554dec5fa9eb88fb6de9727914bf01ba5d78c76/Prototipo.py)
 
 Sistema de adquisición de datos del medidor de energía bidireccional mediante la **API oficial de Tuya IoT**.
 
@@ -55,7 +55,7 @@ pip install requests json datetime threading
 ---
 ### Monitor de Baterías (ESP32 - VE.Direct)
 
-**Archivo:** [`Monitor_Bateria.ino`](https://github.com/JavierCel/TrabajoGraduacionJC/blob/39c7729973b1af43cc4542db3ce922e11599a598/Monitor_bateria.ino)
+**Archivo:** [`Monitor_Bateria.ino`](https://github.com/JavierCel/TrabajoGraduacionJC/blob/0554dec5fa9eb88fb6de9727914bf01ba5d78c76/Monitor_bateria.ino)
 
 Sistema de monitoreo del estado de las baterías mediante **ESP32** conectado al puerto **VE.Direct**.
 
