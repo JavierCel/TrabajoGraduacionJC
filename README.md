@@ -1,4 +1,4 @@
-# 🎓 Protótipo de Sistema Fotovoltaico Híbrido para Edificios Verticales
+# Protótipo de Sistema Fotovoltaico Híbrido para Edificios Verticales
 
 [![Universidad del Istmo](https://img.shields.io/badge/Universidad-del%20Istmo-blue)](https://unis.edu.gt)
 [![Programa](https://img.shields.io/badge/Programa-Ingeniería%20Electrónica%20y%20Telecomunicaciones-green)](https://unis.edu.gt)
@@ -130,7 +130,7 @@ Los datos recopilados por ambos sistemas se envían a **ThingsBoard Cloud IoT** 
 
 ## 👨‍💻 Autor
 
-**Javier Celada**  
+**Victor Javier Celada Argueta**  
 Estudiante de Ingeniería en Electrónica y Telecomunicaciones  
 Universidad del Istmo de Guatemala
 
