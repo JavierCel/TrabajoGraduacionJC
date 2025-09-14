@@ -55,7 +55,7 @@ pip install requests json datetime threading
 ---
 ### Monitor de Baterías (ESP32 - VE.Direct)
 
-**Archivo:** [`Monitor_Bateria.ino`](https://github.com/JavierCel/TrabajoGraduacionJC/blob/0554dec5fa9eb88fb6de9727914bf01ba5d78c76/Monitor_bateria.ino)
+**Archivo:** [`Monitor_Bateria.ino`](https://github.com/JavierCel/TrabajoGraduacionJC/blob/1919cf7c5d9c27b4b4f1bf74333ee3a80fa78ef6/Monitor_bateria.ino)
 
 Sistema de monitoreo del estado de las baterías mediante **ESP32** conectado al puerto **VE.Direct**.
 
