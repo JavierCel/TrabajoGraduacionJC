@@ -16,7 +16,7 @@ Implementar un sistema de monitoreo energético que permita optimizar el uso de 
 - 📊 Monitoreo en tiempo real
 - 🔋 Gestión inteligente de baterías
 
-## 🏗️ Arquitectura del Sistema de monitoreo
+## 🤖 Arquitectura del Sistema de monitoreo
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
