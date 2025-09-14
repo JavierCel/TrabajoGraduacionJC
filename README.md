@@ -134,9 +134,7 @@ Universidad del Istmo de Guatemala
 
 ### 📫 Contacto
 
-- 📧 **Email:** [vcelada@unis.edu.gt](mailto:vcelada@unis.edu.gt)
-- 🐙 **GitHub:** [@JavierCel](https://github.com/JavierCel)
-- 💼 **LinkedIn:** [Javier Celada](https://www.linkedin.com/in/javier-celada-argueta-393696221/)
+- 📧 **Email:** [vcelada@unis.edu.gt](mailto:vcelada@unis.edu.gt) 🐙 **GitHub:** [@JavierCel](https://github.com/JavierCel) 💼 **LinkedIn:** [Javier Celada](https://www.linkedin.com/in/javier-celada-argueta-393696221/)
 
 ---
 
