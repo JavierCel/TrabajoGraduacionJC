@@ -125,6 +125,7 @@ Los datos recopilados por ambos sistemas se envían a **ThingsBoard Cloud IoT** 
 - **Frecuencia promedio:** 1.8 segundos por muestra
 - **Pérdida de datos:** 0.2% (principalmente por mantenimiento WiFi)
 - **Volumen de datos:** 156 MB enviados a ThingsBoard
+---
 
 ## 👨‍💻 Autor
 
@@ -136,14 +137,7 @@ Universidad del Istmo de Guatemala
 
 - 📧 **Email:** [vcelada@unis.edu.gt](mailto:vcelada@unis.edu.gt)
 - 🐙 **GitHub:** [@JavierCel](https://github.com/JavierCel)
-- 💼 **LinkedIn:** [Javier Celada](https://linkedin.com/in/javier-celada)
-
-## 🙏 Agradecimientos
-
-- Universidad del Istmo de Guatemala
-- Facultad de Ingeniería
-- Asesores del proyecto de graduación
-- Comunidad de desarrolladores IoT
+- 💼 **LinkedIn:** [Javier Celada](https://www.linkedin.com/in/javier-celada-argueta-393696221/)
 
 ---
 
