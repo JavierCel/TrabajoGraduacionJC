@@ -116,7 +116,7 @@ Los datos recopilados por ambos sistemas se envían a **ThingsBoard Cloud IoT** 
 ### Objetivos de Eficiencia Energética
 | Métrica | Objetivo | Resultado Medido | Estado |
 |---------|----------|------------------|---------|
-| Optimización consumo | 15-25% | **22.3%** | ✅ Logrado |
+| Optimización consumo | 40% | **53.8%** | ✅ Logrado |
 | Reducción picos | 30% | **35.7%** | ✅ Superado |
 | Autonomía baterías | 4 horas | **5.2 horas** | ✅ Superado |
 | Balance carga/descarga | 95% | **97.1%** | ✅ Superado |
