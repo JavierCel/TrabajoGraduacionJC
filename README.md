@@ -121,6 +121,21 @@ Los datos recopilados por ambos sistemas se envían a **ThingsBoard Cloud IoT** 
 | Autonomía baterías | 4 horas | **5.2 horas** | ✅ Superado |
 | Balance carga/descarga | 95% | **97.1%** | ✅ Superado |
 
+## RESULTADOS PRINCIPALES (45 días)
+
+| Parámetro                    | Valor   | Unidad     |
+|-------------------------------|--------|------------|
+| Generación total              | 174.08 | kWh        |
+| Generación promedio diaria    | 3.87   | kWh/día    |
+| Consumo total                 | 290.07 | kWh        |
+| Consumo promedio diario       | 6.44   | kWh/día    |
+| Energía de red                | 136.7  | kWh        |
+| Eficiencia sistema            | 92.29  | %          |
+| Autonomía promedio            | 5.05   | horas      |
+
+
+**Informacion**: [Evalución energética]()
+
 ### Análisis de Datos Recopilados
 **Período de prueba:** 45 días continuos
 - **Total de registros:** 1,944,000 puntos de datos
