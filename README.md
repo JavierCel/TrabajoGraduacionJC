@@ -121,7 +121,7 @@ Los datos recopilados por ambos sistemas se envían a **ThingsBoard Cloud IoT** 
 | Autonomía baterías | 4 horas | **5.2 horas** | ✅ Superado |
 | Balance carga/descarga | 95% | **97.1%** | ✅ Superado |
 
-## RESULTADOS PRINCIPALES (45 días)
+### Resultados principales
 
 | Parámetro                    | Valor   | Unidad     |
 |-------------------------------|--------|------------|
@@ -134,7 +134,7 @@ Los datos recopilados por ambos sistemas se envían a **ThingsBoard Cloud IoT** 
 | Autonomía promedio            | 5.05   | horas      |
 
 
-**Informacion**: [Evalución energética]()
+**Informacion**: [Evalución energética](https://github.com/JavierCel/TrabajoGraduacionJC/blob/091fbbea82b47a495c63339019edd9f1fe7ab75a/Evaluacion%20Energetica%20-%20Trabajo%20de%20Graduacion.xlsx)
 
 ### Análisis de Datos Recopilados
 **Período de prueba:** 45 días continuos
