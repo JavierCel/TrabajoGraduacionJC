@@ -34,7 +34,7 @@ Implementar un sistema de monitoreo energético que permita optimizar el uso de 
 
 ### 🔌Medidor Bidireccional (Tuya IoT)
 
-**Archivo:** [`Prototipo.py`](https://github.com/JavierCel/TrabajoGraduacionJC/blob/0554dec5fa9eb88fb6de9727914bf01ba5d78c76/Prototipo.py)
+**Código:** [`Prototipo.py`](https://github.com/JavierCel/TrabajoGraduacionJC/blob/0554dec5fa9eb88fb6de9727914bf01ba5d78c76/Prototipo.py)
 
 Sistema de adquisición de datos del medidor de energía bidireccional mediante la **API oficial de Tuya IoT**.
 
@@ -55,7 +55,7 @@ pip install requests json datetime threading
 ---
 ### 🔋Monitor de Baterías (ESP32 - VE.Direct)
 
-**Archivo:** [`Monitor_Bateria.ino`](https://github.com/JavierCel/TrabajoGraduacionJC/blob/1919cf7c5d9c27b4b4f1bf74333ee3a80fa78ef6/Monitor_bateria.ino)
+**Código:** [`Monitor_Bateria.ino`](https://github.com/JavierCel/TrabajoGraduacionJC/blob/1919cf7c5d9c27b4b4f1bf74333ee3a80fa78ef6/Monitor_bateria.ino)
 
 Sistema de monitoreo del estado de las baterías mediante **ESP32** conectado al puerto **VE.Direct**.
 
@@ -134,7 +134,8 @@ Los datos recopilados por ambos sistemas se envían a **ThingsBoard Cloud IoT** 
 | Autonomía promedio            | 5.05   | horas      |
 
 
-**Informacion**: [Evalución energética](https://github.com/JavierCel/TrabajoGraduacionJC/blob/091fbbea82b47a495c63339019edd9f1fe7ab75a/Evaluacion%20Energetica%20-%20Trabajo%20de%20Graduacion.xlsx)
+**Información**: [Evalución energética](https://github.com/JavierCel/TrabajoGraduacionJC/blob/7662c09470d38c5bfe87e4a60a470ca5a67f8df7/Evaluacion%20Energetica%20-%20Trabajo%20de%20Graduacion.xlsx)
+**Información**: [Estudio ROI](https://github.com/JavierCel/TrabajoGraduacionJC/blob/7662c09470d38c5bfe87e4a60a470ca5a67f8df7/Estudio%20ROI%20-%20Trabajo%20de%20Graduacion.xlsx)
 
 ### Análisis de Datos Recopilados
 **Período de prueba:** 45 días continuos
