@@ -118,7 +118,7 @@ Los datos recopilados por ambos sistemas se envían a **ThingsBoard Cloud IoT** 
 |---------|----------|------------------|---------|
 | Optimización consumo | 40% | **53.8%** | ✅ Logrado |
 | Reducción picos | 30% | **35.7%** | ✅ Superado |
-| Autonomía baterías | 4 horas | **5.2 horas** | ✅ Superado |
+| Autonomía baterías | 4 horas | **5.5 horas** | ✅ Superado |
 | Balance carga/descarga | 95% | **97.1%** | ✅ Superado |
 
 ### Resultados principales
@@ -135,6 +135,7 @@ Los datos recopilados por ambos sistemas se envían a **ThingsBoard Cloud IoT** 
 
 
 **Información**: [Evalución energética](https://github.com/JavierCel/TrabajoGraduacionJC/blob/7662c09470d38c5bfe87e4a60a470ca5a67f8df7/Evaluacion%20Energetica%20-%20Trabajo%20de%20Graduacion.xlsx)
+
 **Información**: [Estudio ROI](https://github.com/JavierCel/TrabajoGraduacionJC/blob/7662c09470d38c5bfe87e4a60a470ca5a67f8df7/Estudio%20ROI%20-%20Trabajo%20de%20Graduacion.xlsx)
 
 ### Análisis de Datos Recopilados
