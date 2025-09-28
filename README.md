@@ -83,7 +83,7 @@ Los datos recopilados por ambos sistemas se envían a **ThingsBoard Cloud IoT** 
 - Estado de carga y salud de las baterías
 - Balance energético del sistema híbrido
 
-**Dashboard**: [Prototipo - SIstema de monitoreo](https://thingsboard.cloud/dashboard/9f9f7910-885d-11f0-9631-172f0d7c47ff?publicId=523ffb30-8863-11f0-9cc2-6f3b558016bd)
+**Dashboard**: [Prototipo - Sistema de monitoreo](https://thingsboard.cloud/dashboard/9f9f7910-885d-11f0-9631-172f0d7c47ff?publicId=523ffb30-8863-11f0-9cc2-6f3b558016bd)
 
 ## 🚀 Instalación y Configuración
 
@@ -133,10 +133,16 @@ Los datos recopilados por ambos sistemas se envían a **ThingsBoard Cloud IoT** 
 | Eficiencia sistema            | 92.29  | %          |
 | Autonomía promedio            | 5.05   | horas      |
 
+**Información**: [Evaluación energética](https://github.com/JavierCel/TrabajoGraduacionJC/blob/7662c09470d38c5bfe87e4a60a470ca5a67f8df7/Evaluacion%20Energetica%20-%20Trabajo%20de%20Graduacion.xlsx)
+### Resumen ROI
 
-**Información**: [Evalución energética](https://github.com/JavierCel/TrabajoGraduacionJC/blob/7662c09470d38c5bfe87e4a60a470ca5a67f8df7/Evaluacion%20Energetica%20-%20Trabajo%20de%20Graduacion.xlsx)
+| Concepto                 | Valor           |
+|---------------------------|-----------------|
+| **Inversión Total**       | GTQ 11,929.04   |
+| **Ahorro Anual Promedio** | GTQ 3,259.30    |
+| **Periodo de Recuperación** | 3.66 Años     |
 
-**Información**: [Estudio ROI](https://github.com/JavierCel/TrabajoGraduacionJC/blob/7662c09470d38c5bfe87e4a60a470ca5a67f8df7/Estudio%20ROI%20-%20Trabajo%20de%20Graduacion.xlsx)
+**Información**: [Estudio ROI](https://github.com/JavierCel/TrabajoGraduacionJC/blob/228734d08c469d11f674b06a3d1ef7340cc6ed2d/Estudio%20ROI%20-%20Trabajo%20de%20Graduacion.xlsx)
 
 ### Análisis de Datos Recopilados
 **Período de prueba:** 45 días continuos
